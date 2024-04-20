@@ -4,7 +4,7 @@
 
 🎓 I'm a third-year computer science student at Wilfrid Laurier University, I enjoy applying my skills and knowledge to create web applications that solve real-world problems. 
 
-🌟 have advanced level proficiency in Java, Python, C, C++, and Javascript and I am always eager to learn new technologies and frameworks.
+🌟 I have advanced level proficiency in Java, Python, C, C++, and Javascript and I am always eager to learn new technologies and frameworks.
 
 🚀 I aim to complete multiple projects for clients, ranging from simple websites to complex e-commerce platforms, using Javascript and external frameworks like React.js and Typescript, as my main tools 
 
