@@ -10,7 +10,7 @@
 
 Things I'm currently working on👇
 
-1. Earning my Harvard CS50 Web Programming with Python and Javascript 
+1. Earning my Harvard CS50 Web Programming with Python and Javascript Certification
 2. Building my professional website portfolio using Javascript and external framework React.js 
 
 ... 
